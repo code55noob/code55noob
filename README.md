@@ -6,3 +6,7 @@
 - cd fbchat
 - pip install fbchat
 - python fbbot.py
+
+# Warning
+
+- เปิดระบบยืนยันตัวตน 2 ชั้น ก่อนใช่งาน
